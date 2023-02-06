@@ -1,4 +1,4 @@
-# myself
+# My Self
 Sobre mim | About me
 
 # Socials:
