@@ -5,7 +5,7 @@ Sou um entusiasta do desenvolvimento, comecei em 2005 lá com Pascal e Delphi, m
 
 Atualmente estou retornando para a área que nunca deveria ter saído, o que realmente gosto de fazer que é Programar!
 
-Depois que você "entende/aprende" a lógica de programação, o restante é só sintaxe!
+<i>Depois que você "entende/aprende" a lógica de programação, o restante é só sintaxe!</i>
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/renan.ramadan) 
