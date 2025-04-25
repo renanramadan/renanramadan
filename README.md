@@ -44,8 +44,3 @@ Oh! And if you’d like to chat about code, projects, or even my <b>Hot Wheels B
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanramadan&theme=dark&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
 </p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renanramadan&theme=dark&show_icons=true" align="center">
-</p>
-
