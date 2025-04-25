@@ -1,11 +1,11 @@
 # My Self
-<b>Olá! Meu nome é Renan Ramadan.</b>
+Olá! Meu nome é <b>Renan Ramadan</b>, sou desenvolvedor fullstack com foco em <b>PHP e MySQL</b>, apaixonado por transformar ideias em soluções web funcionais e eficientes.
 
-Sou um entusiasta do desenvolvimento, comecei em 2005 lá com Pascal e Delphi, muitos nem sabem o que é isso (haha) e fui evoluindo com HTML, CSS, PHP, MySQL e algumas outras ferramentas e plataformas.
+Minha jornada na programação começou em 2005, com linguagens como <b>Pascal e Delphi</b> — de lá pra cá, muita coisa mudou, mas minha paixão por tecnologia só cresceu. Desde então, venho aprimorando meus conhecimentos em <b>HTML, CSS, JavaScript, bancos de dados relacionais</b> e diversas ferramentas que compõem o ecossistema web.
 
-Atualmente estou retornando para a área que nunca deveria ter saído, o que realmente gosto de fazer que é Programar!
+Tenho formação técnica em Informática, <b>sólida experiência com sistemas ERP</b> e atuação em áreas estratégicas como <b>engenharia de produtos, precificação e processos industriais.</b> Hoje, estou 100% dedicado ao <b>desenvolvimento web</b>, sempre em busca de novos aprendizados, boas práticas e soluções inovadoras.
 
-<i>Depois que você "entende/aprende" a lógica de programação, o restante é só sintaxe!</i>
+Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de <b>Hot Wheels Bone Shaker</b>, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções — vem ver! 😄
 
 
 # Socials:
