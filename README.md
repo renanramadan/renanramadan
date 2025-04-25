@@ -7,6 +7,16 @@ Tenho formação técnica em Informática, <b>sólida experiência com sistemas 
 
 Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de <b>Hot Wheels Bone Shaker</b>, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções — vem ver! 😄
 
+- - - 
+
+Hello! My name is <b>Renan Ramadan</b>, I'm a fullstack developer with a focus on <b>PHP and MySQL</b>, passionate about transforming ideas into functional and efficient web solutions.
+
+My journey in programming started in 2005 with languages like <b>Pascal and Delphi</b> — a lot has changed since then, but my passion for technology has only grown. Since then, I’ve been enhancing my knowledge in <b>HTML, CSS, JavaScript, relational databases</b>, and various tools that make up the web ecosystem.
+
+I have a technical background in IT, <b>solid experience with ERP systems</b>, and experience in strategic areas such as <b>product engineering, pricing, and industrial processes</b>. Today, I’m 100% focused on <b>web development</b>, always seeking new learnings, best practices, and innovative solutions.
+
+Oh! And if you’d like to chat about code, projects, or even my <b>Hot Wheels Bone Shaker</b> collection, feel free to reach out! In fact, I’m currently developing my own system for managing miniatures and collections — come take a look! 😄
+
 
 # Socials:
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/renan.ramadan) -->
