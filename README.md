@@ -32,9 +32,6 @@ Oh! And if you’d like to chat about code, projects, or even my <b>Hot Wheels B
 
 # GitHub Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=renanramadan&theme=dark&show_icons=true&include_all_commits=false&count_private=false" align="center">
-</p>
-
-<p>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=renanramadan&theme=dark&show_icons=true&include_all_commits=false&count_private=false" align="center">-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanramadan&theme=dark&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
 </p>
