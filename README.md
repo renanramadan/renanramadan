@@ -1,21 +1,21 @@
 # My Self
-Olá! Meu nome é <b>Renan Ramadan</b>, sou desenvolvedor fullstack com foco em <b>PHP e MySQL</b>, apaixonado por transformar ideias em soluções web funcionais e eficientes.
+Olá! Meu nome é **Renan Ramadan**, sou desenvolvedor fullstack com foco em **PHP e MySQL**, apaixonado por transformar ideias em soluções web funcionais e eficientes.
 
-Minha jornada na programação começou em 2005, com linguagens como <b>Pascal e Delphi</b> — de lá pra cá, muita coisa mudou, mas minha paixão por tecnologia só cresceu. Desde então, venho aprimorando meus conhecimentos em <b>HTML, CSS, JavaScript, bancos de dados relacionais</b> e diversas ferramentas que compõem o ecossistema web.
+Minha jornada na programação começou em 2005, com linguagens como **Pascal e Delphi** — de lá pra cá, muita coisa mudou, mas minha paixão por tecnologia só cresceu. Desde então, venho aprimorando meus conhecimentos em **HTML, CSS, JavaScript, bancos de dados relacionais** e diversas ferramentas que compõem o ecossistema web.
 
-Tenho formação técnica em Informática, <b>sólida experiência com sistemas ERP</b> e atuação em áreas estratégicas como <b>engenharia de produtos, precificação e processos industriais.</b> Hoje, estou 100% dedicado ao <b>desenvolvimento web</b>, sempre em busca de novos aprendizados, boas práticas e soluções inovadoras.
+Tenho formação técnica em Informática, **sólida experiência com sistemas ERP** e atuação em áreas estratégicas como **engenharia de produtos, precificação e processos industriais** — experiência que me levou a criar o **[gProd](https://www.gprod.com.br)**. Hoje, estou 100% dedicado ao **desenvolvimento web**, sempre em busca de novos aprendizados, boas práticas e soluções inovadoras.
 
-Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de <b>Hot Wheels Bone Shaker</b>, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções — vem ver! 😄
+Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de **Hot Wheels Bone Shaker**, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções, o **[Minhas Minis](https://www.minhasminis.com)** — vem ver! 😄
 
 - - - 
 
-Hello! My name is <b>Renan Ramadan</b>, I'm a fullstack developer with a focus on <b>PHP and MySQL</b>, passionate about transforming ideas into functional and efficient web solutions.
+Hello! My name is **Renan Ramadan**, I'm a fullstack developer with a focus on **PHP and MySQL**, passionate about transforming ideas into functional and efficient web solutions.
 
-My journey in programming started in 2005 with languages like <b>Pascal and Delphi</b> — a lot has changed since then, but my passion for technology has only grown. Since then, I’ve been enhancing my knowledge in <b>HTML, CSS, JavaScript, relational databases</b>, and various tools that make up the web ecosystem.
+My journey in programming started in 2005 with languages like **Pascal and Delphi** — a lot has changed since then, but my passion for technology has only grown. Since then, I’ve been enhancing my knowledge in **HTML, CSS, JavaScript, relational databases**, and various tools that make up the web ecosystem.
 
-I have a technical background in IT, <b>solid experience with ERP systems</b>, and experience in strategic areas such as <b>product engineering, pricing, and industrial processes</b>. Today, I’m 100% focused on <b>web development</b>, always seeking new learnings, best practices, and innovative solutions.
+I have a technical background in IT, **solid experience with ERP systems**, and experience in strategic areas such as **product engineering, pricing, and industrial processes** — which led me to create **[gProd](https://www.gprod.com.br)**. Today, I’m 100% focused on **web development**, always seeking new learnings, best practices, and innovative solutions.
 
-Oh! And if you’d like to chat about code, projects, or even my <b>Hot Wheels Bone Shaker</b> collection, feel free to reach out! In fact, I’m currently developing my own system for managing miniatures and collections — come take a look! 😄
+Oh! And if you’d like to chat about code, projects, or even my **Hot Wheels Bone Shaker** collection, feel free to reach out! In fact, I’m currently developing my own system for managing miniatures and collections, called **[Minhas Minis](https://www.minhasminis.com)** — come take a look! 😄
 
 
 # Socials:
