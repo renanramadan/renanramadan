@@ -5,7 +5,7 @@ Minha jornada na programação começou em 2005, com linguagens como **Pascal e 
 
 Tenho formação técnica em Informática, **sólida experiência com sistemas ERP** e atuação em áreas estratégicas como **engenharia de produtos, precificação e processos industriais**, experiência que me levou a criar o **[gProd](https://www.gprod.com.br)**. Hoje, estou 100% dedicado ao **desenvolvimento web**, sempre em busca de novos aprendizados, boas práticas e soluções inovadoras.
 
-Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de **Hot Wheels Bone Shaker**, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções, o **[Minhas Minis](https://www.minhasminis.com)** — vem ver! 😄
+Ah! E se quiser bater um papo sobre código, projetos ou até sobre minha coleção de **Hot Wheels (Bone Shaker) e Nascar Cars**, é só chamar! Inclusive, estou desenvolvendo um sistema próprio de gerenciamento de miniaturas e coleções, o **[Minhas Minis](https://www.minhasminis.com)** — vem ver! 😄
 
 - - - 
 
@@ -15,7 +15,7 @@ My journey in programming started in 2005 with languages like **Pascal and Delph
 
 I have a technical background in IT, **solid experience with ERP systems**, and experience in strategic areas such as **product engineering, pricing, and industrial processes**, which led me to create **[gProd](https://www.gprod.com.br)**. Today, I’m 100% focused on **web development**, always seeking new learnings, best practices, and innovative solutions.
 
-Oh! And if you’d like to chat about code, projects, or even my **Hot Wheels Bone Shaker** collection, feel free to reach out! In fact, I’m currently developing my own system for managing miniatures and collections, called **[Minhas Minis](https://www.minhasminis.com)** — come take a look! 😄
+Oh! And if you’d like to chat about code, projects, or even my **Hot Wheels (Bone Shaker) and Nascar Cars** collection, feel free to reach out! In fact, I’m currently developing my own system for managing miniatures and collections, called **[Minhas Minis](https://www.minhasminis.com)** — come take a look! 😄
 
 
 # Socials:
