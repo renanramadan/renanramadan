@@ -30,8 +30,8 @@ Oh! And if you’d like to chat about code, projects, or even my **Hot Wheels (B
 [![My Skills](https://skillicons.dev/icons?i=html,css,htmx,bootstrap,js,php,mysql,github&theme=dark)](https://skillicons.dev)
 
 
-# GitHub Stats:
+<!--# GitHub Stats:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=renanramadan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanramadan&theme=dark&show_icons=true&include_all_commits=true&count_private=false&layout=compact" height="150">
-</p>
+</p> -->
