@@ -27,7 +27,7 @@ Oh! And if you’d like to chat about code, projects, or even my **Hot Wheels (B
 
 # Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,htmx,bootstrap,js,php,mysql,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,htmx,bootstrap,js,php,mysql,github,vscode&theme=dark)](https://skillicons.dev)
 
 
 <!--# GitHub Stats:
